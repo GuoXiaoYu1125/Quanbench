@@ -1,0 +1,5 @@
+# Optional pip-style dependency list for an existing `Quanbench` Conda environment.
+numpy
+qiskit>=1.0
+qiskit-aer
+tqdm
